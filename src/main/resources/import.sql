@@ -1,0 +1,6 @@
+INSERT INTO departure (id, destination, arrival_time, airline, aircraft_make, aircraft_model, terminal) VALUES (1, 'LAX - Los Angeles Intl.', '1234', 'British Airways', 'AIRBUS', 'A380', '5');
+INSERT INTO departure (id, destination, arrival_time, airline, aircraft_make, aircraft_model, terminal) VALUES (2, 'JFK - New York John F. Kennedy Intl.', '1345', 'British Airways', 'BOEING', '777-300', '5');
+INSERT INTO departure (id, destination, arrival_time, airline, aircraft_make, aircraft_model, terminal) VALUES (3, 'MAN - Manchester Intl.', '1400', 'British Airways', 'AIRBUS', 'A319', '5');
+INSERT INTO departure (id, destination, arrival_time, airline, aircraft_make, aircraft_model, terminal) VALUES (4, 'FRA - Frankfurt Intl.', '1521', 'Lufthansa', 'AIRBUS', 'A319', "3');
+INSERT INTO departure (id, destination, arrival_time, airline, aircraft_make, aircraft_model, terminal) VALUES (5, 'CPT - Cape Town Intl.', '1605', 'Virgin Atlantic', 'BOEING', '787-900', '2');
+INSERT INTO departure (id, destination, arrival_time, airline, aircraft_make, aircraft_model, terminal) VALUES (6, 'LAX - Los Angeles Intl.', '1634', 'British Airways', 'BOEING', '777-300', '5');
