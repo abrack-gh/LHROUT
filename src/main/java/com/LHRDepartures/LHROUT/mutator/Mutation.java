@@ -1,12 +1,7 @@
 package com.LHRDepartures.LHROUT.mutator;
 
-import com.LHRDepartures.LHROUT.entity.Departure;
-import com.LHRDepartures.LHROUT.exception.DepartureNotFoundException;
-import com.LHRDepartures.LHROUT.repository.DepartureRepository;
+import com.LHRDepartures.LHROUT.model.DepartureRepository;
 import com.coxautodev.graphql.tools.GraphQLMutationResolver;
-import org.springframework.stereotype.Component;
-
-import java.util.Optional;
 
 
 public class Mutation implements GraphQLMutationResolver {

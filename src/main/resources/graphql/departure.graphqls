@@ -11,9 +11,3 @@ type Departure{
 type Query {
     findAllDepartures: [Departure]
 }
-
-type Mutation {
-    deleteDeparture(id:ID) : Boolean
-    updateTerminal(newTerminal : String, id:ID!): Departure!
-
-}

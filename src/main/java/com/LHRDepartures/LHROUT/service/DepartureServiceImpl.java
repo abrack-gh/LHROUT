@@ -1,7 +1,7 @@
 package com.LHRDepartures.LHROUT.service;
 
-import com.LHRDepartures.LHROUT.entity.Departure;
-import com.LHRDepartures.LHROUT.repository.DepartureRepository;
+import com.LHRDepartures.LHROUT.model.Departure;
+import com.LHRDepartures.LHROUT.model.DepartureRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

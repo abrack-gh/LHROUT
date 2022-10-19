@@ -1,7 +1,6 @@
 package com.LHRDepartures.LHROUT.service;
 
-import com.LHRDepartures.LHROUT.entity.Departure;
-import org.springframework.stereotype.Service;
+import com.LHRDepartures.LHROUT.model.Departure;
 
 import java.util.List;
 
